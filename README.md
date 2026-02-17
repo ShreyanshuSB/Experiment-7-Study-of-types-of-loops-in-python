@@ -5,15 +5,15 @@ PRN-25070123149
 
 Class / Batch- ENTC – A1
 
-Title
+# Title
 
 Study and Implementation of For Loop and While Loop in Python
 
-Aim
+# Aim
 
 To learn and practically implement the working of for loop and while loop in Python programming.
 
-Objectives
+# Objectives
 
 To understand the concept of repetition and iterative execution.
 
@@ -23,7 +23,7 @@ To implement loop control statements such as break and continue.
 
 To differentiate between entry-controlled loops and sequence-based loops.
 
-Theory
+# Theory
 
 Looping is a programming control structure that enables repeated execution of a block of code either based on a condition or by traversing elements in a sequence. Python mainly provides two looping constructs: the for loop and the while loop.
 
@@ -63,7 +63,7 @@ Continue Statement
 
 The continue statement skips the remaining part of the current iteration and proceeds directly to the next iteration of the loop. Unlike the break statement, it does not end the loop but only bypasses the remaining statements for that cycle.
 
-Summary of Key Concepts
+# Summary of Key Concepts
 
 For Loop: Used to iterate over a sequence or collection of elements.
 
@@ -83,6 +83,6 @@ Filtering Operations: Checking membership and removing duplicates.
 
 Automation: Performing repetitive calculations and updating records.
 
-Conclusion
+# Conclusion
 
 Loops play a crucial role in programming by efficiently handling repetitive tasks and enabling traversal of data structures like lists, sets, and dictionaries. The use of control statements such as break and continue enhances flexibility and precision in execution flow. Therefore, loops are fundamental constructs for solving real-world computational problems effectively.
